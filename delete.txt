@@ -15,3 +15,415 @@ Learn the art of typography in web design, from choosing the right fonts to arra
 Efficient Coding Practices for Faster Web Development: Tips and Tricks
 
 Uncover coding strategies and shortcuts that streamline your web development workflow, helping you build websites faster and more efficiently while maintaining code quality.
+
+            <!-- Cards -->
+            <div class="text-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-1.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tic-Tac-Toe
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different units of
+                            measurement like length, temperature, and weight.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-2.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Rock Paper
+                                Scissors
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different
+                            currencies using real-time exchange rates.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-3.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Memory Card
+                                Match
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different
+                            currencies using real-time exchange rates.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-4.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Number
+                                Guessing Game
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Calculates the appropriate tip
+                            amount based on a bill and chosen percentage.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-5.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hangman
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Allows writing and previewing
+                            markdown-formatted text for easy online content creation.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-6.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Dice
+                                Guessing
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Generates names for characters,
+                            businesses, or pets at random.</p>
+                        <a href="#"
+                            class="w-2/3 justify-center inline-flex items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Play
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            
+            <!-- Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-1.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Unit
+                                Converter
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different units of
+                            measurement like length, temperature, and weight.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-2.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Currency
+                                Converter
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different
+                            currencies using real-time exchange rates.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-3.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tip
+                                Calculator
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Converts between different
+                            currencies using real-time exchange rates.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-4.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Time Zone
+                                Converter
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Calculates the appropriate tip
+                            amount based on a bill and chosen percentage.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-5.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Markdown
+                                Editor
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Allows writing and previewing
+                            markdown-formatted text for easy online content creation.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-6.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Random Name
+                                Generator
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Generates names for characters,
+                            businesses, or pets at random.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-7.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Color
+                                Palette Generator
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Creates harmonious color schemes
+                            for design projects or visual inspiration.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-8.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">BMI
+                                Calculator
+
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Calculates Body Mass Index based on
+                            weight and height, providing health insights.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Card -->
+                <div
+                    class="hidden lg:block bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 p-8">
+                    <a href="#">
+                        <img class="w-1/3 m-auto rounded-t-lg" src="/images/tool-9.svg" alt="" />
+                    </a>
+                    <div class="mt-8">
+                        <a href="#">
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Password
+                                Generator
+                            </h5>
+                        </a>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Generates strong, secure passwords
+                            based on user preferences for enhanced online security.</p>
+                        <a href="#"
+                            class="w-1/3 inline-flex justify-center items-center px-6 py-4 text-sm font-medium text-center text-white bg-violet-700 rounded-full hover:bg-violet-800 focus:ring-4 focus:outline-none focus:ring-violet-300 dark:bg-violet-600 dark:hover:bg-violet-700 dark:focus:ring-violet-800">
+                            Use
+                            <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                    stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- --------------------------- -->
